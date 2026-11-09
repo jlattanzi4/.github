@@ -6,7 +6,7 @@
 
 ## Description & motivation
 
-<!-- What changed and why. Link the issue: "Closes #12" if this finishes it, "Part of #12" if not. -->
+<!-- What changed and why. Link the issue with "Closes #12": GitHub only shows a PR on its issue through a closing keyword. If this PR doesn't finish the issue, split the rest into its own issue, so every PR closes exactly one. -->
 
 ## To-do before merge
 
